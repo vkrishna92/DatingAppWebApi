@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DatingApp.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20190910035344_cleanstart2")]
-    partial class cleanstart2
+    [Migration("20190910035940_cleanstart3")]
+    partial class cleanstart3
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
